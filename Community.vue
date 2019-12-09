@@ -653,7 +653,7 @@ export default {
       window.open("http://www.realyagu.com/store/");
     }
   },
-  // 게시글 조회수 저장
+  // 메인화면 불러오기
   created() {
     this.boards = [];
     this.$axios
